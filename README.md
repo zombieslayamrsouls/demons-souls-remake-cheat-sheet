@@ -1,6 +1,6 @@
-# Demon's Souls Cheat Sheet
+# Demon's Souls Cheat Sheet [CURRENTLY A WIP]
 
-To view the cheat sheet [click here](http://iforgottosave.github.io/demons-souls-cheat-sheet/)
+To view the cheat sheet [click here](https://zombieslayamrsouls.github.io/demons-souls-remake-cheat-sheet/)
 
 The foundation of this guide was based on [Demon Souls Cheat Sheet](https://github.com/iforgottosave/demons-souls-cheat-sheet) created by [iforgottosave](https://github.com/iforgottosave)
 
